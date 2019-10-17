@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/EdnilsonCS/back-end-to-do.git",
   "author": "ednilsonCS <ednilsoncs@dcomp.ufs.br>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
