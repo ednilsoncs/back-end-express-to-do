@@ -1,0 +1,8 @@
+{
+  "name": "back-end-to-do",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EdnilsonCS/back-end-to-do.git",
+  "author": "ednilsonCS <ednilsoncs@dcomp.ufs.br>",
+  "license": "MIT"
+}
